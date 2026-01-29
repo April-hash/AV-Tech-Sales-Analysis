@@ -55,3 +55,22 @@ This project is designed to demonstrate data cleaning, analysis, pivot tables, a
 The analysis shows that AV Tech’s sales performance is driven primarily by high-performing products, regions, and sales representatives. While a small segment contributes most of the revenue, other areas underperform, presenting opportunities for targeted improvement.
 Strategic focus on top-performing segments, combined with optimization of weaker areas, can significantly improve overall business performance
 
+<img width="746" height="421" alt="image" src="https://github.com/user-attachments/assets/81223686-479f-49cb-9b66-d8b350a91d20" />
+
+<img width="745" height="414" alt="image" src="https://github.com/user-attachments/assets/0495b253-4643-47ea-b265-48cdde0f3951" />
+
+<img width="745" height="413" alt="image" src="https://github.com/user-attachments/assets/a79ce83c-b972-40b9-9e5a-19fd8ad34161" />
+
+<img width="745" height="403" alt="image" src="https://github.com/user-attachments/assets/1461f5bd-6e16-4a1b-ad6b-6da3b3933881" />
+
+<img width="745" height="414" alt="image" src="https://github.com/user-attachments/assets/27fbb2fb-ef1c-446b-966d-e3a77f829ced" />
+
+<img width="754" height="409" alt="image" src="https://github.com/user-attachments/assets/a4e8aca8-cbb2-4228-b5e5-7dac759f6162" />
+
+<img width="748" height="410" alt="image" src="https://github.com/user-attachments/assets/969003be-9e0a-4041-8fb4-4ea9d5c65dd4" />
+
+
+
+
+
+
